@@ -1,11 +1,11 @@
 
-# Food Delivery Platform
+# Food Order Platform
 
 ## Features
 
-- **User Registration and Login**: Secure user authentication and authorization for customers, delivery personnel, and admins.
+- **User Registration and Login**: Secure user authentication and authorization for customers, and admins.
 - **Restaurant Management**: Allows restaurant owners to add, update, and delete food items on the menu.
-- **Order Management**: Enables users to place orders, track status, and receive notifications.
+- **Order Management**: Enables users to place orders, track status.
 - **Admin Dashboard**: Admins can manage all orders, restaurants, and user accounts from a single interface.
 - **Delivery Tracking**: Real-time tracking of delivery status for both customers and delivery personnel.
 - **Cart Functionality**: Customers can add items to their cart and modify the quantity before placing an order.
