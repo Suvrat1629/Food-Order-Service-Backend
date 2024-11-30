@@ -32,8 +32,8 @@ To set up and run the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/food-delivery-platform.git
-   cd food-delivery-platform
+   git clone https://github.com/your-username/food-order-platform.git
+   cd food-order-platform
    ```
 
 2. **Set up the Database**:
