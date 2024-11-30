@@ -39,7 +39,7 @@ To set up and run the project locally, follow these steps:
 2. **Set up the Database**:
    - Configure MySQL database connection in `application.properties`.
    ```properties
-   spring.datasource.url=jdbc:mysql://localhost:3306/food_delivery
+   spring.datasource.url=jdbc:mysql://localhost:3306/food_order
    spring.datasource.username=your_username
    spring.datasource.password=your_password
    ```
